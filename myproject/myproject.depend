@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1658914041 source:c:\users\sunil\downloads\myproject\main.cpp
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<iostream>
+	<cstring>
+	<stdio.h>
+
